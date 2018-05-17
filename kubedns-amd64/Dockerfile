@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubedns-amd64:1.9
-MAINTAINER kql 3168582@qq.com
+FROM k8s.gcr.io/k8s-dns-kube-dns-amd64:1.14.8
+MAINTAINER wlx

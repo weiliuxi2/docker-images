@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-dnsmasq-amd64:1.4
-MAINTAINER kql 3168582@qq.com
+FROM k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64:1.14.8
+MAINTAINER wlx
