@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.0.14-kubeadm
-MAINTAINER kql 3168582@qq.com
+FROM k8s.gcr.io/etcd-amd64:3.1.12
+MAINTAINER wlx

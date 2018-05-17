@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.6.0
-MAINTAINER kql 3168582@qq.com
+FROM k8s.gcr.io/kube-controller-manager-amd64:v1.10.2
+MAINTAINER wlx 
