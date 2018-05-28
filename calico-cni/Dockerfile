@@ -1,0 +1,2 @@
+FROM quay.io/calico/cni:v3.1.1
+MAINTAINER wlx
